@@ -1,17 +1,272 @@
-# About Me:
-building intelligent systems & real products — web, AI, and blockchain
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manyarolekar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@manyarolekar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Manyamr_27) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manyarolekar27@gmail.com) 
-# Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-# GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=manyarolekar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=manyarolekar&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=manyarolekar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-##  GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=manyarolekar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-###  Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=manyarolekar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:312E81,50:6D28D9,100:8B5CF6&text=Manya%20Rolekar&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Student;Full+Stack+Developer;Data+Analytics+Enthusiast;Web3+Explorer;Building+Intelligent+Digital+Products;Open+Source+Contributor" />
+
+<br><br>
+
+![](https://img.shields.io/badge/AIML-Engineering%20Student-6D28D9?style=for-the-badge)
+![](https://img.shields.io/badge/Class%20of-2028-7C3AED?style=for-the-badge)
+![](https://img.shields.io/badge/SheFi-Scholar-8B5CF6?style=for-the-badge)
+![](https://img.shields.io/badge/Open%20Source-Contributor-4F46E5?style=for-the-badge)
+
+<br><br>
+
+![](https://img.shields.io/badge/Location-Karnataka%2C%20India-4338CA?style=for-the-badge)
+
+<br><br>
+
+<a href="https://linkedin.com/in/manyarolekar">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:manyarolekar27@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/manyarolekar">
+<img src="https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+![](https://komarev.com/ghpvc/?username=manyarolekar\&style=for-the-badge\&color=6D28D9)
+
+![](https://img.shields.io/github/followers/manyarolekar?style=for-the-badge\&color=7C3AED)
+
+</div>
+
 ---
-[![](https://komarev.com/ghpvc/?username=manyarolekar&style=for-the-badge&color=blueviolet)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# About Me
+
+AI & Machine Learning Engineering Student focused on building intelligent products at the intersection of software engineering, artificial intelligence, and emerging technologies.
+
+Currently pursuing a Bachelor's degree in AIML (Class of 2028), with interests spanning:
+
+* Artificial Intelligence & Machine Learning
+* Full Stack Development
+* Data Analytics & Visualization
+* Blockchain & Web3
+* Product Engineering
+* Open Source
+
+Selected as a SheFi Scholar, expanding my understanding of decentralized technologies, blockchain ecosystems, and the future of digital ownership.
+
+I enjoy turning ideas into real products—from machine learning applications and recommendation systems to modern web platforms and data-driven solutions.
+
+### Open To
+
+* Software Engineering Internships
+* AI/ML Opportunities
+* Open Source Collaborations
+* Research Projects
+* Developer Communities
+
+---
+
+# Profile Summary
+
+| Focus Area       | Details                                             |
+| ---------------- | --------------------------------------------------- |
+| Degree           | B.E. in Artificial Intelligence & Machine Learning  |
+| Graduation       | 2028                                                |
+| Interests        | AI/ML, Data Analytics, Full Stack Development, Web3 |
+| Current Learning | Machine Learning, Data Analytics                    |
+| Community        | SheFi Scholar                                       |
+| Open To          | Internships, Open Source, Research Opportunities    |
+
+---
+
+# Tech Stack
+
+## Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css,mysql" />
+
+</div>
+
+<br>
+
+## Frontend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,html,css,javascript,vercel" />
+
+</div>
+
+<br>
+
+## Backend & Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,firebase" />
+
+</div>
+
+<br>
+
+## AI / ML
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+
+</div>
+
+<br>
+
+## Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+
+</div>
+
+---
+
+# AI / ML Expertise
+
+| Domain           | Proficiency           | Details                                 |
+| ---------------- | --------------------- | --------------------------------------- |
+| Machine Learning | Intermediate          | Classification, Regression, Clustering  |
+| Deep Learning    | Intermediate          | Neural Networks, CNN Fundamentals       |
+| Data Analytics   | Intermediate          | Data Cleaning, Visualization & Insights |
+| NLP              | Beginner–Intermediate | Text Processing & Analysis              |
+| Computer Vision  | Beginner              | Image Classification Concepts           |
+| Generative AI    | Intermediate          | LLMs & Prompt Engineering               |
+| Statistics       | Intermediate          | Probability & Data Interpretation       |
+| Data Science     | Intermediate          | End-to-End Analytical Workflows         |
+
+---
+
+# Achievements
+
+<div align="center">
+
+| Recognition              | Details                                                                 |
+| ------------------------ | ----------------------------------------------------------------------- |
+| SheFi Scholar            | Selected for SheFi's global Web3 education program                      |
+| AIML Engineering Student | Pursuing Artificial Intelligence & Machine Learning specialization      |
+| Open Source Learner      | Exploring collaborative software development and open-source ecosystems |
+| AI Enthusiast            | Building machine learning and data-driven applications                  |
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manyarolekar&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# Top Languages
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyarolekar&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# Streak Stats
+
+<div align="center">
+
+<img height="180em" src="https://streak-stats.demolab.com/?user=manyarolekar&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manyarolekar&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=manyarolekar&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/manyarolekar/manyarolekar/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# Current Focus
+
+```yaml
+Learning:
+  - Data Analytics
+  - Machine Learning
+  - Full Stack Development
+
+Exploring:
+  - Blockchain Development
+  - Solana Ecosystem
+  - Generative AI
+
+Open To:
+  - Internships
+  - Open Source Collaboration
+```
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="mailto:manyarolekar27@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/manyarolekar">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/manyarolekar">
+<img src="https://img.shields.io/badge/GitHub-Follow-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Learning relentlessly, building consistently, and turning ideas into impactful technology."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:312E81,50:6D28D9,100:8B5CF6"/>
